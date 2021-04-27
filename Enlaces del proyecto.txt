@@ -1,0 +1,28 @@
+Saludos profesor, debajo nuestros datos y enlaces. 
+
+Nombre Empresa:  Raven Tech International
+
+Nombre Proyecto: Sofware de Censo Poblacional (Beta)
+
+Equipo: 
+
+
+20-EIIN-1-071 Kelvin Rodriguez __|__|__|__|__ 
+
+20-EII-1-116 Yenier Cuevas __|__|__|__|__ 
+
+20-EIIN-1-111 Manuel de Jesus __|__|__|__|__ 
+
+ 
+
+Enlace al proyecto en Github:  
+
+https://github.com/Yenier-Cuevas/Raven-Tech-International.git
+
+Enlace a la presentación en PowerPoint: 
+
+https://prezi.com/view/0HzenehvqQ6ks5gDEo33/
+
+Video de exposición: 
+
+https://youtu.be/R9ndm7iHTz0
